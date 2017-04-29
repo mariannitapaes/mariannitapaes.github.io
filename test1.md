@@ -2,6 +2,7 @@
 ## Test driven development and object-oriented programming
 * [Being lazy](common/lazy.md)
 * [Hello world!](java/hello.md)
+* [Introduction to java](java/intro.md)
 * [Constructing and using objects](java/objects.md)
 * [Creating classes](java/classes.md)
 * [Linear data structures](java/linearDataStructures.md)
