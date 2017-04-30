@@ -4,7 +4,7 @@
 
 
 ## 2h diafaneia
-<img src=../media/test.png width=650 height=400 /></br>
+<img src=media/AbstractFactory.png width=650 height=400 /></br>
 <!-- * //TODO image from c++ book pg.241 -->
 
 ## Proti klasi
